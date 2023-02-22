@@ -1,0 +1,11 @@
+.tableItemCollapse.tableItemCollapse {
+  z-index: 0;
+}
+.root {
+  width: min-content;
+  height: min-content;
+  padding: 8px;
+  outline: solid 1px #0000000f;
+  outline-offset: -1px;
+  background-color: #fff;
+}

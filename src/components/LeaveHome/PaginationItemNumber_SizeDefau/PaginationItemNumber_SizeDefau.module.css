@@ -1,0 +1,25 @@
+.root {
+  width: 32px;
+  height: 32px;
+  flex-direction: column;
+  place-content: center;
+  padding: 0 6px;
+  outline: solid 1px #1677ff;
+  outline-offset: -1px;
+  outline-style: dashed;
+  border-radius: 6px;
+}
+._1 {
+  color: #1677ff;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}

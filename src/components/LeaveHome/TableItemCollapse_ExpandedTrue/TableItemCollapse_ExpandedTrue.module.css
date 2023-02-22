@@ -1,0 +1,31 @@
+.root {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  align-items: flex-start;
+}
+.rectangle1 {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  outline: solid 1px #0000000f;
+  outline-offset: -1px;
+  border-radius: 2px;
+  background-color: #fff;
+}
+.group1 {
+  position: absolute;
+  left: 3.2px;
+  top: 8px;
+  width: 9.6px;
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}

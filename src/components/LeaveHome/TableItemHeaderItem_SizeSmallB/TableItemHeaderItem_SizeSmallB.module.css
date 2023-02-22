@@ -1,0 +1,32 @@
+.root {
+  width: 218px;
+  height: min-content;
+}
+.header {
+  height: min-content;
+  flex: 1;
+  align-self: flex-start;
+  padding: 8px 0;
+  background-color: #00000005;
+  box-shadow: inset 0px -1px 0px #0000000f;
+}
+.wrapper {
+  height: min-content;
+  flex: 1;
+  align-self: flex-start;
+  align-items: center;
+  gap: 8px;
+  padding: 0 8px;
+  box-shadow: inset -0.5px 0px 0px #0000000f, inset -0.5px 0px 0px #0000000f;
+}
+.tableHeader {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}

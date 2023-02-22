@@ -1,0 +1,12 @@
+.Checkbox.Checkbox {
+  z-index: 0;
+  align-self: flex-start;
+}
+.root {
+  width: min-content;
+  height: min-content;
+  padding: 8px;
+  outline: solid 1px #0000000f;
+  outline-offset: -1px;
+  background-color: #fff;
+}

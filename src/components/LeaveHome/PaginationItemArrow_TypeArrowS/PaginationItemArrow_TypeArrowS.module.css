@@ -1,0 +1,22 @@
+.iconLeftOutlined.iconLeftOutlined {
+  position: relative;
+  top: initial;
+  right: initial;
+  bottom: initial;
+  left: initial;
+  width: 14px;
+  height: 14px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  width: 32px;
+  height: 32px;
+  flex-direction: column;
+  place-content: center;
+  align-items: center;
+  padding: 0 6px;
+  border-radius: 6px;
+}

@@ -1,0 +1,1546 @@
+.inputDropdown.inputDropdown {
+  width: initial;
+  align-self: stretch;
+}
+.input.input.input {
+  outline: solid 1px #344054;
+  background-color: #344054;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.text {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._NavItemBase._NavItemBase {
+  height: initial;
+  flex: 1;
+  align-items: center;
+}
+.content.content {
+  align-self: initial;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.text2 {
+  color: #f2f4f7;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._NavItemBase2._NavItemBase2 {
+  height: initial;
+  flex: 1;
+  align-items: center;
+}
+.content2.content2 {
+  align-self: initial;
+}
+.text3 {
+  color: #f2f4f7;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._NavItemBase3._NavItemBase3 {
+  height: initial;
+  flex: 1;
+  align-items: center;
+}
+.content3.content3 {
+  align-self: initial;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.text4 {
+  color: #f2f4f7;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._NavItemBase4._NavItemBase4 {
+  height: initial;
+  flex: 1;
+  align-items: center;
+}
+.content4.content4 {
+  align-self: initial;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.text5 {
+  color: #f2f4f7;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._NavItemBase5._NavItemBase5 {
+  height: initial;
+  flex: 1;
+  align-items: center;
+}
+.content5.content5 {
+  align-self: initial;
+}
+.icon5 {
+  width: 100%;
+  height: 100%;
+}
+.text6 {
+  color: #f2f4f7;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+._NavItemBase6._NavItemBase6 {
+  height: initial;
+  flex: 1;
+  align-items: center;
+}
+.content6.content6 {
+  align-self: initial;
+}
+.icon6 {
+  width: 100%;
+  height: 100%;
+}
+.text7 {
+  color: #f2f4f7;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.text8 {
+  color: #f2f4f7;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.icon7 {
+  width: 100%;
+  height: 100%;
+}
+.text9 {
+  color: #f2f4f7;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.avatar.avatar.avatar {
+  background-image:/* webpackIgnore: true */ url('assets/avatar2.jpeg');
+}
+.text10 {
+  color: #fff;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.supportingText {
+  color: #f2f4f7;
+  font-size: 14px;
+  line-height: 20px;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.button.button {
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+.logOut.logOut {
+  width: 20px;
+  height: 20px;
+}
+.icon8 {
+  width: 100%;
+  height: 100%;
+}
+.headerSection.headerSection {
+  width: initial;
+  align-self: stretch;
+}
+.leaveBalance.leaveBalance {
+  width: 331px;
+}
+.TabsBasic.TabsBasic {
+  align-items: flex-start;
+}
+.upcomingPublicHolidays.upcomingPublicHolidays {
+  align-items: center;
+}
+.leaveBalance2 {
+  color: #000000e0;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+._34237423Easter {
+  color: #000;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._34237423Easter2 {
+  color: #000;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._34237423Easter3 {
+  color: #000;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.upcomingPublicHolidays2.upcomingPublicHolidays2 {
+  align-items: center;
+}
+.button2.button2 {
+  width: 111px;
+}
+._ButtonBase._ButtonBase._ButtonBase {
+  width: 111px;
+  align-self: initial;
+  gap: initial;
+  padding: initial;
+  outline: solid NaNpx #f9f5ff;
+  outline-offset: initial;
+  box-shadow: initial;
+}
+.text11 {
+  color: #6941c6;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: 51px;
+  flex-direction: column;
+}
+.x.x {
+  z-index: 0;
+  position: initial;
+  width: 20px;
+  height: 20px;
+}
+.icon9.icon9 {
+  position: initial;
+  top: initial;
+  right: initial;
+  bottom: initial;
+  left: initial;
+  width: 10px;
+  height: 10px;
+}
+.icon9 {
+  position: initial;
+  top: initial;
+  right: initial;
+  bottom: initial;
+  left: initial;
+  width: 10px;
+  height: 10px;
+}
+.icon10 {
+  width: 100%;
+  height: 100%;
+}
+.button3.button3 {
+  width: 136px;
+}
+._ButtonBase2._ButtonBase2._ButtonBase2 {
+  width: 136px;
+  align-self: initial;
+  gap: initial;
+  padding: initial;
+  outline: solid NaNpx #d0d5dd;
+  outline-offset: initial;
+  box-shadow: initial;
+}
+.filtersLines.filtersLines {
+  z-index: 0;
+  position: initial;
+  width: 20px;
+  height: 20px;
+}
+.icon11.icon11 {
+  position: initial;
+  top: initial;
+  right: initial;
+  bottom: initial;
+  left: initial;
+  width: 15px;
+  height: 10px;
+}
+.icon11 {
+  position: initial;
+  top: initial;
+  right: initial;
+  bottom: initial;
+  left: initial;
+  width: 15px;
+  height: 10px;
+}
+.icon12 {
+  width: 100%;
+  height: 100%;
+}
+.text12 {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: 76px;
+  flex-direction: column;
+}
+.tableItemHeaderControl.tableItemHeaderControl {
+  height: initial;
+  align-self: stretch;
+  align-items: center;
+}
+.Checkbox.Checkbox.Checkbox {
+  align-self: initial;
+}
+.tableItemHeaderItem.tableItemHeaderItem {
+  width: initial;
+  flex: 1;
+}
+.wrapper.wrapper {
+  box-shadow: inset -0.5px 0px 0px #0000000f;
+}
+.tableHeader {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.iconFilterFilled.iconFilterFilled.iconFilterFilled {
+  width: 12px;
+  height: 12px;
+}
+.tableItemHeaderItem2.tableItemHeaderItem2 {
+  width: initial;
+  flex: 1;
+}
+.tableHeader2 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sort.sort {
+  width: 8px;
+  height: 12px;
+  overflow: visible;
+}
+.sort {
+  width: 8px;
+  height: 12px;
+  overflow: visible;
+}
+.icon13 {
+  width: 100%;
+  height: 100%;
+}
+.tableItemHeaderItem3.tableItemHeaderItem3 {
+  width: initial;
+  flex: 1;
+}
+.tableHeader3 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sort2.sort2 {
+  width: 8px;
+  height: 12px;
+  overflow: visible;
+}
+.sort2 {
+  width: 8px;
+  height: 12px;
+  overflow: visible;
+}
+.icon14 {
+  width: 100%;
+  height: 100%;
+}
+.tableItemHeaderItem4.tableItemHeaderItem4 {
+  width: initial;
+  flex: 1;
+}
+.tableHeader4 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.iconFilterFilled2.iconFilterFilled2.iconFilterFilled2 {
+  width: 12px;
+  height: 12px;
+}
+.tableItemHeaderItem5.tableItemHeaderItem5 {
+  width: initial;
+  flex: 1;
+}
+.wrapper2.wrapper2 {
+  box-shadow: inset -0.5px 0px 0px #0000000f;
+}
+.tableHeader5 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sort3.sort3 {
+  width: 8px;
+  height: 12px;
+  overflow: visible;
+}
+.sort3 {
+  width: 8px;
+  height: 12px;
+  overflow: visible;
+}
+.icon15 {
+  width: 100%;
+  height: 100%;
+}
+.tableItemHeaderItem6.tableItemHeaderItem6 {
+  width: initial;
+  flex: 1;
+}
+.wrapper3.wrapper3 {
+  box-shadow: inset -0.5px 0px 0px #0000000f;
+}
+.tableHeader6 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sort4.sort4 {
+  width: 8px;
+  height: 12px;
+  overflow: visible;
+}
+.sort4 {
+  width: 8px;
+  height: 12px;
+  overflow: visible;
+}
+.icon16 {
+  width: 100%;
+  height: 100%;
+}
+.tableItemHeaderItem7.tableItemHeaderItem7 {
+  width: initial;
+  flex: 1;
+}
+.wrapper4.wrapper4 {
+  box-shadow: inset -0.5px 0px 0px #0000000f;
+}
+.tableHeader7 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.tableItemRowControl.tableItemRowControl {
+  height: initial;
+  align-self: stretch;
+  align-items: center;
+}
+.Checkbox2.Checkbox2.Checkbox2 {
+  align-self: initial;
+}
+.sizeDefaultBorderedFalse.sizeDefaultBorderedFalse {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse2.sizeDefaultBorderedFalse2 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText2 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse3.sizeDefaultBorderedFalse3 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText3 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse4.sizeDefaultBorderedFalse4 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.cyan {
+  color: #13c2c2;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse5.sizeDefaultBorderedFalse5 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText4 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse6.sizeDefaultBorderedFalse6 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText5 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.decision.decision {
+  width: initial;
+  height: initial;
+  align-self: stretch;
+  place-content: center;
+}
+.tableItemRowControl2.tableItemRowControl2 {
+  height: initial;
+  align-self: stretch;
+  align-items: center;
+}
+.Checkbox3.Checkbox3.Checkbox3 {
+  align-self: initial;
+}
+.sizeDefaultBorderedFalse7.sizeDefaultBorderedFalse7 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText6 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse8.sizeDefaultBorderedFalse8 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText7 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse9.sizeDefaultBorderedFalse9 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText8 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse10.sizeDefaultBorderedFalse10 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.gold {
+  color: #faad14;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse11.sizeDefaultBorderedFalse11 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText9 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse12.sizeDefaultBorderedFalse12 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText10 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.decision2.decision2 {
+  width: initial;
+  height: initial;
+  align-self: stretch;
+  place-content: center;
+}
+.tableItemRowControl3.tableItemRowControl3 {
+  height: initial;
+  align-self: stretch;
+  align-items: center;
+}
+.Checkbox4.Checkbox4.Checkbox4 {
+  align-self: initial;
+}
+.sizeDefaultBorderedFalse13.sizeDefaultBorderedFalse13 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText11 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse14.sizeDefaultBorderedFalse14 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText12 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse15.sizeDefaultBorderedFalse15 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText13 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse16.sizeDefaultBorderedFalse16 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.geekblue {
+  color: #2f54eb;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse17.sizeDefaultBorderedFalse17 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText14 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse18.sizeDefaultBorderedFalse18 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText15 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.decision3.decision3 {
+  width: initial;
+  height: initial;
+  align-self: stretch;
+  place-content: center;
+}
+.tableItemRowControl4.tableItemRowControl4 {
+  height: initial;
+  align-self: stretch;
+  align-items: center;
+}
+.Checkbox5.Checkbox5.Checkbox5 {
+  align-self: initial;
+}
+.sizeDefaultBorderedFalse19.sizeDefaultBorderedFalse19 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText16 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse20.sizeDefaultBorderedFalse20 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText17 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse21.sizeDefaultBorderedFalse21 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText18 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse22.sizeDefaultBorderedFalse22 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.green {
+  color: #52c41a;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse23.sizeDefaultBorderedFalse23 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText19 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse24.sizeDefaultBorderedFalse24 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText20 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.decision4.decision4 {
+  width: initial;
+  height: initial;
+  align-self: stretch;
+  place-content: center;
+}
+.tableItemRowControl5.tableItemRowControl5 {
+  height: initial;
+  align-self: stretch;
+  align-items: center;
+}
+.Checkbox6.Checkbox6.Checkbox6 {
+  align-self: initial;
+}
+.sizeDefaultBorderedFalse25.sizeDefaultBorderedFalse25 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText21 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse26.sizeDefaultBorderedFalse26 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText22 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse27.sizeDefaultBorderedFalse27 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText23 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse28.sizeDefaultBorderedFalse28 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.magenta {
+  color: #eb2f96;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse29.sizeDefaultBorderedFalse29 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText24 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse30.sizeDefaultBorderedFalse30 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText25 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.decision5.decision5 {
+  width: initial;
+  height: initial;
+  align-self: stretch;
+  place-content: center;
+}
+.tableItemRowControl6.tableItemRowControl6 {
+  height: initial;
+  align-self: stretch;
+  align-items: center;
+}
+.Checkbox7.Checkbox7.Checkbox7 {
+  align-self: initial;
+}
+.sizeDefaultBorderedFalse31.sizeDefaultBorderedFalse31 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText26 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 433px;
+  height: min-content;
+  flex: initial;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse32.sizeDefaultBorderedFalse32 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText27 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse33.sizeDefaultBorderedFalse33 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText28 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse34.sizeDefaultBorderedFalse34 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.purple {
+  color: #722ed1;
+  font-size: 12px;
+  line-height: 20px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  z-index: 0;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse35.sizeDefaultBorderedFalse35 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText29 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.sizeDefaultBorderedFalse36.sizeDefaultBorderedFalse36 {
+  width: initial;
+  height: initial;
+  flex: 1;
+  align-self: stretch;
+}
+.tableCellText30 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.decision6.decision6 {
+  width: initial;
+  height: initial;
+  align-self: stretch;
+  place-content: center;
+}
+.sizeDefaultBorderedFalse37.sizeDefaultBorderedFalse37 {
+  width: initial;
+  flex: 1;
+  gap: initial;
+  padding: initial;
+  background-color: #00000005;
+  box-shadow: initial;
+}
+.tableCellText31 {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 898px;
+  flex: initial;
+  flex-direction: column;
+}
+.Pagination.Pagination {
+  padding: 16px 0;
+}
+.root {
+  width: 100vw;
+  height: 100vh;
+  align-items: flex-start;
+  background-color: #101828;
+}
+.sidebarNavigation {
+  width: 280px;
+  height: 960px;
+  background-color: #101828;
+  overflow: hidden;
+}
+.divider {
+  width: 1px;
+  max-width: 100%;
+  max-height: 100%;
+  align-self: stretch;
+  overflow: visible;
+}
+.icon17 {
+  width: 100%;
+  height: 100%;
+}
+.content7 {
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+  place-content: space-between;
+}
+.nav {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 24px;
+  padding: 32px 0 0;
+}
+.header {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px 0 24px;
+}
+.logo {
+  width: min-content;
+  height: min-content;
+  flex-direction: column;
+}
+.betweenCollectiveLogoWhite1 {
+  width: 93.07px;
+  height: 39.47px;
+}
+.icon18 {
+  width: 100%;
+  height: 100%;
+}
+.search {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 24px;
+}
+.navigation {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 4px;
+  padding: 0 16px;
+}
+.footer {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 24px;
+  padding: 0 16px 32px;
+}
+.navigation2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 4px;
+}
+.divider2 {
+  max-width: 100%;
+  height: 1px;
+  max-height: 100%;
+  align-self: stretch;
+  overflow: visible;
+}
+.icon19 {
+  width: 100%;
+  height: 100%;
+}
+.account {
+  height: min-content;
+  align-self: stretch;
+  place-content: space-between;
+  align-items: flex-start;
+  padding: 0 8px;
+}
+.icon20 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  align-items: flex-start;
+}
+.mainWrap {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+  padding: 12px 0 0;
+}
+.main {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 32px;
+  padding: 32px 0 48px;
+  border-radius: 40px 0 0 40px;
+  background-color: #fff;
+}
+.section {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.container {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 32px;
+}
+.metricGroup {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 24px;
+}
+.section2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.container2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  padding: 0 32px;
+}
+.filtersBar {
+  height: min-content;
+  align-self: stretch;
+  border-radius: 8px;
+}
+.content8 {
+  height: min-content;
+  flex: 1;
+  align-self: flex-start;
+  align-items: center;
+  gap: 16px;
+}
+.Table {
+  width: 1096px;
+  height: 452px;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.tableTitle {
+  height: min-content;
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 31px;
+  padding: 8px;
+}
+.leavePending {
+  color: #0958d9;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.confirmedLeave {
+  color: #000000e0;
+  font-size: 14px;
+  line-height: 22px;
+  font-weight: 600;
+  font-family: SF Pro Text, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.table {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  background-color: #fff;
+}
+.headerRow {
+  height: min-content;
+  align-self: stretch;
+  align-items: flex-start;
+}
+.row {
+  height: min-content;
+  align-self: stretch;
+}
+.row2 {
+  height: min-content;
+  align-self: stretch;
+}
+.row3 {
+  height: min-content;
+  align-self: stretch;
+}
+.row4 {
+  height: min-content;
+  align-self: stretch;
+}
+.row5 {
+  height: min-content;
+  align-self: stretch;
+}
+.row6 {
+  height: min-content;
+  align-self: stretch;
+}

@@ -1,0 +1,58 @@
+.root {
+  position: relative;
+  width: 64px;
+  height: 64px;
+  align-items: flex-start;
+}
+.ring {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 64px;
+  height: 64px;
+  align-items: flex-start;
+  transform: translate(-50%, -50%);
+}
+.background {
+  position: absolute;
+  left: 4.6875%;
+  right: 4.6875%;
+  top: 4.6875%;
+  bottom: 4.6875%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.line {
+  position: absolute;
+  left: 4.6875%;
+  right: 4.6875%;
+  top: 4.6875%;
+  bottom: 4.6875%;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.text {
+  color: #344054;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - -0.5px);
+  top: 50%;
+  width: min-content;
+  height: min-content;
+  flex: 1;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}

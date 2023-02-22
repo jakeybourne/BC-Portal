@@ -1,0 +1,10 @@
+._InputDropdownBase._InputDropdownBase {
+  right: 0;
+  width: initial;
+}
+.root {
+  position: relative;
+  width: 320px;
+  height: 44px;
+  align-items: flex-start;
+}
